@@ -49,3 +49,43 @@ Now, you can execute the `cb_dsl.py` script with different arguments and paramet
    ```
    python cb_dsl.py --attack_scenario
    ```
+
+
+```markdown
+## Setup and Installation
+
+Ensure you have Python 3.x installed along with the necessary libraries:
+
+```bash
+pip install numpy torch torchvision
+```
+
+Now, you can execute the `cb_dsl.py` script with different arguments and parameters. Here are a few examples:
+
+1. Run the script with default settings:
+   ```bash
+   python cb_dsl.py
+   ```
+
+2. Run the script with a different number of workers and rounds:
+   ```bash
+   python cb_dsl.py --num_workers 10 --num_rounds 20
+   ```
+
+3. Run the script with a different batch size and learning rate:
+   ```bash
+   python cb_dsl.py --batch_size 256 --learning_rate 0.01
+   ```
+
+4. Run the script with non-IID data partitioning:
+   ```bash
+   python cb_dsl.py --non_iid
+   ```
+
+5. Run the script with Byzantine attack simulation:
+   ```bash
+   python cb_dsl.py --attack_scenario
+   ```
+``` 
+
+This markdown code block encompasses all the setup instructions in one coherent section.
