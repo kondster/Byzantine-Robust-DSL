@@ -49,7 +49,3 @@ Now, you can execute the `cb_dsl.py` script with different arguments and paramet
    ```
    python cb_dsl.py --attack_scenario
    ```
-
-You can combine multiple arguments as needed. The script will use the provided arguments to configure the CB-DSL algorithm and run accordingly.
-
-Feel free to adjust the arguments and their default values based on your requirements. Let me know if you have any further questions!
