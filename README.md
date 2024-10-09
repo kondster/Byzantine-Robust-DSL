@@ -50,5 +50,3 @@ Now, you can execute the `cb_dsl.py` script with different arguments and paramet
    python cb_dsl.py --attack_scenario
    ```
 ``` 
-
-This markdown code block encompasses all the setup instructions in one coherent section.
